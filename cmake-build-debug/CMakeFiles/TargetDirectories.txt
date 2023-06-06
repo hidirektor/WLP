@@ -1,0 +1,3 @@
+C:/Users/hidir/CLionProjects/WLP/cmake-build-debug/CMakeFiles/WLP.dir
+C:/Users/hidir/CLionProjects/WLP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hidir/CLionProjects/WLP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
